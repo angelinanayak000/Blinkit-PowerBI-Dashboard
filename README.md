@@ -10,7 +10,7 @@ This project analyzes Blinkit's sales data to gain actionable insights that will
 
 The dataset includes information on 8,253 sales transactions, including item details (fat content, type), outlet information (location, size, type), sales figures, and customer ratings.
 
-**My Project:** <a href="#">View and Interact with Dashboard<a/>
+**My Project:** <a href="https://drive.google.com/file/d/1RJYemlbTFwRFvVVwnhXSp7xnLgtpQgE4/view?usp=sharing">View and Interact with Dashboard<a/>
 
 **Questions (KPIs):**
 
