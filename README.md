@@ -15,8 +15,8 @@ The dataset includes information on 8,253 sales transactions, including item det
 **Questions (KPIs):**
 
 *   **How do sales vary by item fat content?**
-    *   Low Fat items account for $425.36K in sales
-    *   Regular items account for $776.32K in sales
+    *   Regular items account for $425.36K in sales
+    *   Low Fat items account for $776.32K in sales
 
 *   **Which outlet types perform best?**
     *   Supermarket Type1 leads with $787.55K in sales
