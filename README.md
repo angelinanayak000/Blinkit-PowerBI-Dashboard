@@ -6,7 +6,7 @@ This project analyzes Blinkit's sales data to gain actionable insights that will
 
 ![Blinkit Sales Dashboard](![DASHBOARD](https://github.com/user-attachments/assets/489e2428-2748-49d5-ad51-cedbde366200))
 
-**Dataset Used:** <a href="#">https://docs.google.com/spreadsheets/d/1iiqAJSjHRJx5bYcvb3aTjkXzyRxI3r_E/edit?usp=drive_link&ouid=117599201032091952181&rtpof=true&sd=true<a/>
+**Dataset Used:** <a href="https://docs.google.com/spreadsheets/d/1iiqAJSjHRJx5bYcvb3aTjkXzyRxI3r_E/edit?usp=drive_link&ouid=117599201032091952181&rtpof=true&sd=true"> Download Dataset<a/>
 
 The dataset includes information on 8,253 sales transactions, including item details (fat content, type), outlet information (location, size, type), sales figures, and customer ratings.
 
