@@ -16,7 +16,7 @@ The dataset includes information on 8,253 sales transactions, including item det
 
 *   **How do sales vary by item fat content?**
     *   Low Fat items account for $425.36K in sales
-    *   Regular items account for $5776.32K in sales
+    *   Regular items account for $776.32K in sales
 
 *   **Which outlet types perform best?**
     *   Supermarket Type1 leads with $787.55K in sales
@@ -26,8 +26,8 @@ The dataset includes information on 8,253 sales transactions, including item det
     *   $1.20M across all outlets
 
 *   **How does outlet size affect sales?**
-    *   Tier 3 outlets dominate with $50.17M in sales
-    *   Tier 1 outlets show $50.12M in sales
+    *   Tier 3 outlets dominate with $0.17M in sales
+    *   Tier 1 outlets show $0.12M in sales
 
 *   **What is the average rating across outlets?**
     *   Consistent 3.9 average rating across outlet types
@@ -68,7 +68,7 @@ The dataset includes information on 8,253 sales transactions, including item det
 
 **Insights:**
 
-*   **Top-Selling Items:** Regular fat content items dominate sales
+*   **Top-Selling Items:** Low fat content items dominate sales
 *   **Best-Performing Outlets:** Tier 3 outlets show highest sales
 *   **Rating Consistency:** All outlet types maintain 3.9 average rating
 *   **Geographic Trends:** Urban locations show stronger performance
